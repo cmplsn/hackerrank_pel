@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/alessandrocampagnaro/Desktop/ESERCITAZIONI HACKERRANK/Esercitazione 6 Select CMakeLists.txt
