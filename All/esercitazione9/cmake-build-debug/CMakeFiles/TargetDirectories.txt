@@ -1,3 +1,0 @@
-/Users/alessandrocampagnaro/Desktop/es_hackerrank/esercitazione9/cmake-build-debug/CMakeFiles/esercitazione9.dir
-/Users/alessandrocampagnaro/Desktop/es_hackerrank/esercitazione9/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/alessandrocampagnaro/Desktop/es_hackerrank/esercitazione9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

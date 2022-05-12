@@ -1,3 +1,0 @@
-/tmp/Es1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/tmp/Es1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/tmp/Es1/cmake-build-debug/CMakeFiles/Es1.dir
