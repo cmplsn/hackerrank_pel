@@ -1,0 +1,3 @@
+/Users/alessandrocampagnaro/Desktop/ESERCITAZIONI HACKERRANK/es6_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alessandrocampagnaro/Desktop/ESERCITAZIONI HACKERRANK/es6_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alessandrocampagnaro/Desktop/ESERCITAZIONI HACKERRANK/es6_3/cmake-build-debug/CMakeFiles/es6_3.dir
