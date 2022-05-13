@@ -1,8 +1,8 @@
 #include<vector>
 #include<iostream>
 
-void print(const std::vector<double>& v) {
-    for (auto x: v) {
+void print(const std::vector<double>& d) {
+    for (auto x: d) {
         std::cout<<x<<std::endl;
     }
 }
